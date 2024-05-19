@@ -1,0 +1,10 @@
+/.idea/
+
+*.txt
+*.npz
+*.csv
+*.zip
+*.params
+
+/data/
+/报告/
