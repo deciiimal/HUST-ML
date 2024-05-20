@@ -22,7 +22,7 @@ class Dataset:
         if self.test:
             return torch.tensor(X)
         y = self.y[idx]
-        return torch.tensor(X / 255.), torch.tensor(y)
+        return torch.tensor(X / 256.), torch.tensor(y)
 
 
 train_csv = pd.read_csv('data/train.csv')
