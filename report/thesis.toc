@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}实验要求}{1}{section.1}%
+\contentsline {section}{\numberline {2}算法设计与实现}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}算法目标}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}数据集分析和处理}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}神经网络层实现}{3}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}卷积层}{3}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}池化层}{4}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}全连接层}{5}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}激活函数}{5}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}其他层}{6}{subsubsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.4}卷积神经网络搭建}{6}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Lenet-5网络}{6}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}本次实验使用的网络}{6}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}模型训练}{7}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}小批量随机梯度下降}{7}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}学习率衰减}{8}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}实际模型训练}{8}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}K邻近算法}{8}{subsection.2.6}%
+\contentsline {section}{\numberline {3}实验环境与平台}{9}{section.3}%
+\contentsline {section}{\numberline {4}结果与分析}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}模型预测结果分析}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}与现有模型对比}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}优化方向}{11}{subsection.4.3}%
+\contentsline {section}{\numberline {5}个人体会}{12}{section.5}%
+\contentsline {section}{参考文献}{13}{section.5}%

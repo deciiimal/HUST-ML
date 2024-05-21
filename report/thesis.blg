@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: body/chapter1.aux
+A level-1 auxiliary file: body/chapter2.aux
+A level-1 auxiliary file: body/chapter3.aux
+A level-1 auxiliary file: body/chapter4.aux
+A level-1 auxiliary file: body/chapter5.aux
+A level-1 auxiliary file: body/reference.aux
+The style file: ieeetr.bst
+Database file #1: bible.bib
+You've used 7 entries,
+            1876 wiz_defined-function locations,
+            520 strings with 4388 characters,
+and the built_in function-call counts, 1274 in all, are:
+= -- 110
+> -- 55
+< -- 0
++ -- 22
+- -- 15
+* -- 79
+:= -- 203
+add.period$ -- 8
+call.type$ -- 7
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 68
+empty$ -- 140
+format.name$ -- 15
+if$ -- 305
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 7
+newline$ -- 25
+num.names$ -- 7
+pop$ -- 30
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 27
+stack$ -- 0
+substring$ -- 36
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 9
+width$ -- 8
+write$ -- 61

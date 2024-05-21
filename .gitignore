@@ -8,4 +8,12 @@
 *.params
 
 /data/
-/报告/
+/report/**/**.log
+/report/**/**.aux
+/report/**/**.out
+/report/**/**.synctex.gz
+/report/svg-extract/
+/report/svg-inkscape/
+
+
+

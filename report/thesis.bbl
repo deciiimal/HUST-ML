@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{zhouzhihua}
+周志华, {\em 机器学习}.
+\newblock 清华大学出版社, 2016.
+
+\bibitem{o2015introduction}
+K.~O'shea and R.~Nash, ``An introduction to convolutional neural networks,'' {\em arXiv preprint arXiv:1511.08458}, 2015.
+
+\bibitem{dukhan2019indirect}
+M.~Dukhan, ``The indirect convolution algorithm,'' {\em arXiv preprint arXiv:1907.02129}, 2019.
+
+\bibitem{cTensor}
+sebgao, ``ctensor,'' 2021.
+
+\bibitem{agarap2018deep}
+A.~F. Agarap, ``Deep learning using rectified linear units (relu),'' {\em arXiv preprint arXiv:1803.08375}, 2018.
+
+\bibitem{hinton2012improving}
+G.~E. Hinton, N.~Srivastava, A.~Krizhevsky, I.~Sutskever, and R.~R. Salakhutdinov, ``Improving neural networks by preventing co-adaptation of feature detectors,'' {\em arXiv preprint arXiv:1207.0580}, 2012.
+
+\bibitem{726791}
+Y.~Lecun, L.~Bottou, Y.~Bengio, and P.~Haffner, ``Gradient-based learning applied to document recognition,'' {\em Proceedings of the IEEE}, vol.~86, no.~11, pp.~2278--2324, 1998.
+
+\end{thebibliography}
